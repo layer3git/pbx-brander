@@ -20,5 +20,4 @@ if ! grep 'intellicom-logo-white.png' /opt/pbxware/pw/home/sitemanager/admin/css
 EOF
 fi
 
-mkdir -p mkdir /opt/pbxware/pw/home/sitemanager/admin/css/img
-curl -L 'https://github.com/layer3git/pbx-brander/raw/master/intellicom-logo-white.png' >/opt/pbxware/pw/home/sitemanager/admin/css/img/intellicom-logo-white.png
+curl -L 'https://github.com/layer3git/pbx-brander/raw/master/intellicom-logo-white.png' >/opt/pbxware/pw/home/sitemanager/admin/css/intellicom-logo-white.png
